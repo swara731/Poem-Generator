@@ -4,7 +4,7 @@ A poetic poem generator <br>
 💮Poem is generated when added information such as favourite activity and favourite place
 
 ### More about this project:
-This project is created to learn more about javascript. <br>
+This project is created to learn more about html, css and javascript. <br>
 Original project by scrimba tutorial provided.
 
 ## Interface
